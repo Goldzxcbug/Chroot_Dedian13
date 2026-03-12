@@ -1,0 +1,6 @@
+id=chroot_debian13
+name=Debian13
+author=Gold_bug
+version=1.2
+versionCode=13
+description=先打开本模块目录，阅读说明，并解压rootfs文件，方可有执行按钮,执行即可开机
