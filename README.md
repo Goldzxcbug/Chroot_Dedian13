@@ -2,8 +2,8 @@
 # Debian 13 chroot 环境 for Android (高通设备)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Android%20(Qualcomm)-brightgreen)]()
-[![Status](https://img.shields.io/badge/Status-Active-success)]()
+[![Platform](https://img.shields.io/badge/Platform-Android%20(Qualcomm)-brightgreen)](https://developer.qualcomm.com/)
+[![Downloads](https://img.shields.io/github/downloads/Goldzxcbug/Chroot_Dedian13/total)](https://github.com/Goldzxcbug/Chroot_Dedian13/releases)
 
 在 Android 设备上通过 chroot 运行完整的 Debian 13 系统，支持 GPU 加速、Wine 以及图形化桌面。  
 本项目专为 **高通骁龙处理器** 设备优化，已在 **一加 Pad 2 Pro** 和 **一加 Ace 3** 上通过测试。
