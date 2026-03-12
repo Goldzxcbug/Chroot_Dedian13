@@ -117,6 +117,7 @@ mv action_.sh action.sh
 ```
 
 这样就可以在文件管理器中 **直接点击执行脚本**。
+![直接点击执行脚本](https://github.com/user-attachments/assets/1e7c5863-e650-457e-852a-4f91193aeba2)
 
 ---
 
