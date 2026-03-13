@@ -74,6 +74,7 @@ Debian_rootfs.tar.gz 下载：
 
 - OnePlus Pad 2 Pro
 - OnePlus Ace 3
+- Redmi K60
 
 ---
 
@@ -84,7 +85,7 @@ Debian_rootfs.tar.gz 下载：
 将分享的 `debian13_rootfs.tar.gz` 文件移动到：
 
 
-/data/modules/chroot_debian13/
+/data/adb/modules/chroot_debian13/
 
 
 
@@ -125,7 +126,7 @@ mv action_.sh action.sh
 模块目录：
 
 ```
-/data/modules/chroot_debian13/
+/data/adb/modules/chroot_debian13/
 ```
 
 包含两个重要软链接：
