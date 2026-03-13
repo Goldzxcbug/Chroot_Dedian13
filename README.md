@@ -275,6 +275,7 @@ bash up
 打开 **Termux-X11 应用**。
 
 此时应该可以看到 **Debian 图形桌面**。
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/202502290/562629276-ad216564-b622-4fdf-b184-cceb4e525aca.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260313T000717Z&X-Amz-Expires=300&X-Amz-Signature=e095e78d29e2d585e070fb7b6847fdc3a0ec1befaa2a6201760738922fe30fdb&X-Amz-SignedHeaders=host)
 
 
 ---
