@@ -94,23 +94,22 @@ Debian_rootfs.tar.gz 下载：
 
 ## 解压文件
 
-进入目录并解压：
+进入目录执行解压脚本解压：
+```
+bash 解压.sh
+```
 
-```bash
-cd /data/modules/chroot_debian13/
-tar -xzf debian13_rootfs.tar.gz
-````
 
-解压完成后可以选择：
+解压完成后：
 
-* 保留压缩包
-* 删除压缩包释放空间
+* 默认保留压缩包
+* 可以手动删除压缩包释放空间
 
 ---
 
-## 激活执行按钮（可选）
+## 激活执行按钮
 
-如果目录中存在 `action_.sh` 文件：
+目录中存在 `action_.sh` 文件：
 
 ```bash
 mv action_.sh action.sh
