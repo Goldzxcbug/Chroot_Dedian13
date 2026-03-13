@@ -283,6 +283,7 @@ bash up
 #  常见问题排查
 
 ## 桌面左上角出现白方块
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/202502290/562630496-1bfbd52f-7ca1-4a43-bf7c-a4479eb5a14f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260313T001027Z&X-Amz-Expires=300&X-Amz-Signature=fa42309e488baa08203f2a3ae554cbbe4ab99143ea1c878149ea07b38e77a52c&X-Amz-SignedHeaders=host)
 
 解决方法：
 
@@ -290,6 +291,7 @@ bash up
 
 ```
 xwayland to video bridge
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/202502290/562630494-8af51eba-c898-4c64-967e-5ae97457e942.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260313T001102Z&X-Amz-Expires=300&X-Amz-Signature=cc5a59bdde210eefea1c392f940a5910bf437b3f785b742332f2242be85382b3&X-Amz-SignedHeaders=host)
 ```
 
 或者直接卸载该组件。
