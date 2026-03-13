@@ -117,7 +117,7 @@ mv action_.sh action.sh
 ```
 
 这样就可以在文件管理器中 **直接点击执行脚本**。
-![直接点击执行脚本](https://github.com/user-attachments/assets/1e7c5863-e650-457e-852a-4f91193aeba2?raw=true)
+![直接点击执行脚本](https://github-production-user-asset-6210df.s3.amazonaws.com/202502290/562624875-1e7c5863-e650-457e-852a-4f91193aeba2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260313T000047Z&X-Amz-Expires=300&X-Amz-Signature=41ac431f09633f4e54d30323418b3de8bba268000bf60fedfdd81e46e704683e&X-Amz-SignedHeaders=host)
 
 ---
 
