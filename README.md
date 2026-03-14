@@ -32,7 +32,7 @@ Debian_rootfs.tar.gz 下载：
 - [快速开始](#快速开始)
   - [准备工作](#准备工作)
   - [解压文件](#解压文件)
-  - [激活执行按钮（可选）](#激活执行按钮可选)
+  - [激活执行按钮](#激活执行按钮)
 - [模块目录结构](#模块目录结构)
 - [chroot 环境说明](#chroot-环境说明)
   - [GPU 加速驱动](#gpu-加速驱动)
@@ -118,7 +118,7 @@ mv action_.sh action.sh
 ```
 
 这样就可以在文件管理器中 **直接点击执行脚本**。
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/202502290/562624875-1e7c5863-e650-457e-852a-4f91193aeba2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260313T000047Z&X-Amz-Expires=300&X-Amz-Signature=41ac431f09633f4e54d30323418b3de8bba268000bf60fedfdd81e46e704683e&X-Amz-SignedHeaders=host)
+![](https://www.helloimg.com/i/2026/03/14/69b521fdb91a9.jpg)
 
 ---
 
@@ -190,7 +190,7 @@ mv action_.sh action.sh
 
 使用项目：
 
-[**Hangover**](https://github.com/AndreRH/hangover)
+[**Wine-Hangover**](https://github.com/AndreRH/hangover)
 
 特点：
 
@@ -276,7 +276,7 @@ bash up
 打开 **Termux-X11 应用**。
 
 此时应该可以看到 **Debian 图形桌面**。
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/202502290/562629276-ad216564-b622-4fdf-b184-cceb4e525aca.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260313T000717Z&X-Amz-Expires=300&X-Amz-Signature=e095e78d29e2d585e070fb7b6847fdc3a0ec1befaa2a6201760738922fe30fdb&X-Amz-SignedHeaders=host)
+![](https://www.helloimg.com/i/2026/03/14/69b524d9bd091.jpg)
 
 
 ---
@@ -284,7 +284,7 @@ bash up
 #  常见问题排查
 
 ## 桌面左上角出现白方块
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/202502290/562630496-1bfbd52f-7ca1-4a43-bf7c-a4479eb5a14f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260313T001027Z&X-Amz-Expires=300&X-Amz-Signature=fa42309e488baa08203f2a3ae554cbbe4ab99143ea1c878149ea07b38e77a52c&X-Amz-SignedHeaders=host)
+![](https://www.helloimg.com/i/2026/03/14/69b525bb67a62.jpg)
 
 解决方法：
 
@@ -293,7 +293,7 @@ bash up
 ```
 xwayland to video bridge
 ```
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/202502290/562630494-8af51eba-c898-4c64-967e-5ae97457e942.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260313T001102Z&X-Amz-Expires=300&X-Amz-Signature=cc5a59bdde210eefea1c392f940a5910bf437b3f785b742332f2242be85382b3&X-Amz-SignedHeaders=host)
+![](https://www.helloimg.com/i/2026/03/14/69b525bb38d7c.jpg)
 
 或者直接卸载该组件。
 
