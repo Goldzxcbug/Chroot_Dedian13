@@ -117,7 +117,7 @@ bash 解压.sh
 mv action_.sh action.sh
 ```
 
-这样就可以在文件管理器中 **直接点击执行脚本**。
+这样就可以在管理器中显示 **执行**按钮。
 ![](https://www.helloimg.com/i/2026/03/14/69b521fdb91a9.jpg)
 
 ---
