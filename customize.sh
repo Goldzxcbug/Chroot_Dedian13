@@ -19,7 +19,7 @@ unzip -o "$ZIPFILE" '备份.sh' -d "$MODPATH"
 unzip -o "$ZIPFILE" '关机.sh' -d "$MODPATH"
 unzip -o "$ZIPFILE" '解压.sh' -d "$MODPATH"
 unzip -o "$ZIPFILE" 'uninstall.sh' -d "$MODPATH"
-unzip -o "$ZIPFILE" 'action.sh' -d "$MODPATH"
+unzip -o "$ZIPFILE" 'action_.sh' -d "$MODPATH"
 unzip -o "$ZIPFILE" '阅读' -d "$MODPATH"
 
 unzip -o "$ZIPFILE" 'on' -d "/data/user/0/com.termux/files/home"
