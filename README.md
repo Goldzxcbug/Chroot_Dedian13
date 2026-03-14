@@ -75,7 +75,7 @@ Debian_rootfs.tar.gz 下载：
 - OnePlus Pad 2 Pro
 - OnePlus Ace 3
 - Redmi K60
-
+- Xiaomi Pad 7 Pro
 ---
 
 # 快速开始
