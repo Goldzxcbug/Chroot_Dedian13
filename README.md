@@ -352,6 +352,17 @@ Android 系统杀后台。
 
 ---
 
+## 用的不是官方termux和本项目的termux
+
+会导致$DISPLAY is not set or cannot connect to the X server.
+
+解决方法:
+
+打开模块目录：/data/adb/modules/chroot_debian13/（默认目录）的action.sh文件
+将71行的/data/user/0/com.termux/files/usr/tmp 改成"/data/user/0/你的第三方termux包名/files/usr/tmp"（不一定在/files/usr/tmp）
+![](https://www.helloimg.com/i/2026/03/14/69b52893d6199.jpg)
+---
+
 # 贡献与反馈
 
 欢迎：
