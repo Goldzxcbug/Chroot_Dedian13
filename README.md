@@ -6,7 +6,7 @@
 [![Downloads](https://img.shields.io/github/downloads/Goldzxcbug/Chroot_Dedian13/total)](https://github.com/Goldzxcbug/Chroot_Dedian13/releases)
 
 在 Android 设备上通过 chroot 运行完整的 Debian 13 系统，支持 GPU 加速、Wine 以及图形化桌面。  
-本项目专为 **高通骁龙处理器** 设备优化，已在 **一加 Pad 2 Pro** 和 **一加 Ace 3** 上通过测试。
+本项目专为 **高通骁龙处理器** 设备设计
 
 Debian_rootfs.tar.gz 下载：
 
