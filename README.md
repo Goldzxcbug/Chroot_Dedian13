@@ -117,7 +117,7 @@ bash 解压.sh
 mv action_.sh action.sh
 ```
 
-这样就可以在管理器中显示 **执行**按钮。
+这样就可以在管理器中显示 **执行** 按钮。
 ![](https://www.helloimg.com/i/2026/03/14/69b521fdb91a9.jpg)
 
 ---
